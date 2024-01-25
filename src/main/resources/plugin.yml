@@ -1,0 +1,9 @@
+name: Sit
+version: '${project.version}'
+main: me.reigniteh.sit.Sit
+api-version: 1.18
+authors: [ Reigniteh ]
+
+commands:
+  sit:
+    description: Sit down anywhere.

@@ -1,0 +1,9 @@
+name: Sit
+version: '1.2.3-SNAPSHOT'
+main: me.reigniteh.sit.Sit
+api-version: 1.18
+authors: [ Reigniteh ]
+
+commands:
+  sit:
+    description: Sit down anywhere.
